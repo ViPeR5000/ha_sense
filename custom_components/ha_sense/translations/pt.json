@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "step_user": {
+
+      }
+    },
+    "abort": {
+      "already_configured": "Só é permitida uma instância."
+    }
+  }
+}
